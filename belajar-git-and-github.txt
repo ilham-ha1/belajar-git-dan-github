@@ -1,0 +1,4 @@
+My resolution
+-Learning Git and Github
+-Learning Java
+-Learning Database
