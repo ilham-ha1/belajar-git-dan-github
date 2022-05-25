@@ -4,6 +4,8 @@ Activity Plan
   *View
   *HTML
   *CSS
+  *Bootstrap
+  *Vanila CSS
 -SWIFT
   *Flutter
   *Dart
