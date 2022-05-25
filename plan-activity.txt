@@ -2,8 +2,10 @@ Activity Plan
 
 -UI/UX
   *View
-  *Laravel
-  *PHP
+  *HTML
+  *CSS
+  *Bootstrap
+  *Vanila CSS
 -SWIFT
   *Flutter
   *Dart
