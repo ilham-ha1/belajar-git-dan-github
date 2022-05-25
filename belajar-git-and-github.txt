@@ -4,4 +4,4 @@ My resolution
 -Learning Database
 -Learning Kotlin
 -Learning Android
--Winning Programming Competition
+-Joining Communities
