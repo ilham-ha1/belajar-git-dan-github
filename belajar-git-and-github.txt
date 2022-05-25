@@ -2,3 +2,6 @@ My resolution
 -Learning Git and Github
 -Learning Java
 -Learning Database
+-Learning Kotlin
+-Learning Android
+-Winning Programming Competition
